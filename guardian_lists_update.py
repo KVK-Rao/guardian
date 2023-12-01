@@ -82,4 +82,5 @@ ip_list_file = "/home/debian/netguardian/static/malicious_ip_lists.txt"
 url_list_file = "/home/debian/netguardian/static/malicious_url_lists.txt"
 update_mal_url_list()
 update_mal_ip_list()
+#update program
 restart_squid()
