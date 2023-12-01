@@ -16,7 +16,7 @@ messages = [{'title': 'Message One',
             ]
 
 ###################################################
-## update whitelist/blacklist/malicious lists     ##
+## update whitelist/blacklist/malicious lists    ##
 ###################################################
 
 def update_list(orig_file, row):
