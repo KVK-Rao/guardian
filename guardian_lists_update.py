@@ -11,7 +11,7 @@ def restart_squid():
     except OSError as ose:
         print("Error while running the command", ose)
     pass
-    
+#update lists    
 def update_mal_url_list():    
     block_lists = "/home/debian/netguardian/static/malicious_url_lists.txt"
     #block_lists = list
