@@ -1,1 +1,1 @@
-# guardian is security program to protect home network users from accessing malicious sites to prevent malware/ransomware/phishing attacks. Program runs on a mini-pc, Raspberry Pi or as a VM in the home network.  
+# Guardian is security program to protect home network users from accessing malicious sites to prevent malware/ransomware/phishing attacks. Program runs on a mini-pc, Raspberry Pi or as a VM in the home network.  
